@@ -1,0 +1,15 @@
+# API Keys and Environment Variables
+.env
+
+# Virtual Environment
+LCEL_venv/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# System Files
+.DS_Store
